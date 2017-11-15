@@ -20,7 +20,7 @@ module.exports = {
   }
 }
 ```
-(详情见：[http://itmyhome.com/markdown/article/syntax/links.html](http://itmyhome.com/markdown/article/syntax/links.html))
+(详情见：[https://vuejs-templates.github.io/webpack/proxy.html](https://vuejs-templates.github.io/webpack/proxy.html))
 
 相当于开发环境下的``'/api'``路由是指向xxx.com地址的,同时重定向了你的路由所有带``'/api'``的都是空，即用axios请求数据的时候控制台里看到的其实并没有``/api``这四个字符。``changeOrigin:true``则会自动给请求头加入Host首部。
 
